@@ -19,7 +19,6 @@ The Up and Down Counter application provides buttons for the user to increase or
 3. **Minimum and Maximum Values**: The counter value is constrained within the specified minimum and maximum values. When the counter reaches the minimum or maximum value, the corresponding button is disabled.
 
 ## Installation
-## Installation
 
 To run the code locally:
 
@@ -36,3 +35,8 @@ To run the code locally:
     ```
     java UpDownApp
     ```
+
+## Technologies Used
+
+- Java
+- Java Swing
