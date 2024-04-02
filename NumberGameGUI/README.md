@@ -1,4 +1,4 @@
-# Number Game
+# Number Game GUI
 
 A simple Java Swing application where the user can guess a randomly generated number and earn points for correct guesses.
 
